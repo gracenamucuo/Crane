@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		045AC3391E7EAA03007AA3F3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 045AC3381E7EAA03007AA3F3 /* main.swift */; };
 		04C868A21E7EA2E900D1A7EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C868A11E7EA2E900D1A7EC /* AppDelegate.swift */; };
 		04C868A41E7EA2E900D1A7EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C868A31E7EA2E900D1A7EC /* ViewController.swift */; };
 		04C868A71E7EA2E900D1A7EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C868A51E7EA2E900D1A7EC /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		045AC3381E7EAA03007AA3F3 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		04C8689E1E7EA2E900D1A7EC /* CraneAo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CraneAo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C868A11E7EA2E900D1A7EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04C868A31E7EA2E900D1A7EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				04C868A11E7EA2E900D1A7EC /* AppDelegate.swift */,
 				04C868A31E7EA2E900D1A7EC /* ViewController.swift */,
+				045AC3381E7EAA03007AA3F3 /* main.swift */,
 				04C868A51E7EA2E900D1A7EC /* Main.storyboard */,
 				04C868A81E7EA2E900D1A7EC /* Assets.xcassets */,
 				04C868AA1E7EA2E900D1A7EC /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				04C868A41E7EA2E900D1A7EC /* ViewController.swift in Sources */,
 				04C868A21E7EA2E900D1A7EC /* AppDelegate.swift in Sources */,
+				045AC3391E7EAA03007AA3F3 /* main.swift in Sources */,
 				5A65BA651E7EB168004F3A1A /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
